@@ -7,7 +7,7 @@ ng new hotel-app
 cd .\hotel-app\
 ng g m home
 ng g c home --module=home
-ng g m reservation
+ng g m reservation 
 ng g c reservation-form --module=reservation
 ng g c reservation-list --module=reservation
 ng g s reservation/reservation
